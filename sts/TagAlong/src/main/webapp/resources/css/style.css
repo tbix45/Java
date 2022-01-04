@@ -1,0 +1,44 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+.navBar{
+	display:flex;
+	justify-content: space-around;
+	border-bottom: 1px solid black;
+	margin: 15px 0;
+	
+}
+.all-trips{
+   display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+}
+.trip-card-content{
+	border: 1px solid black;
+	border-radius: 15px;
+	width: 20%;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	background-color: rgba(110, 113, 130, 0.6);
+}
+.trip-card > a, .trip-card>a:hover{
+	text-decoration: none;
+	color: black;
+}
+.loginreg{
+	background-image: url("https://images.unsplash.com/reserve/brBe5pGVSwGi0dC3192U_Sunset%20in%20Dunhuang.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80");
+} 
+a{
+	text-decoration:none;
+	color:black;
+}
+.dashboard{
+	background-image: url("https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1633&q=80");
+}
+
+.loginreg{
+	background-image: url("https://images.unsplash.com/reserve/brBe5pGVSwGi0dC3192U_Sunset%20in%20Dunhuang.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80");
+} 

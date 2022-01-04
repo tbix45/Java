@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.action-buttons{
+	display:flex;
+	justify-content:center;
+}
+.tracking-form{
+	margin:auto;
+	background-color:blue;
+	padding: 15px;
+	border-radius:15px;
+	width: 500px;
+	
+}
