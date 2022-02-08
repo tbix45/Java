@@ -31,7 +31,7 @@ public class MainController {
 	
 	
 	   private final UserService userServ;
-	    private final TripService tripServ;
+	   private final TripService tripServ;
 
 
 	    public MainController(UserService userServ, TripService tripServ) {
