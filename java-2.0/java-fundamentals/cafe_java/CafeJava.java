@@ -49,5 +49,9 @@ public class CafeJava {
 
         // Jimmy ordered lattee but was charged a coffee
         System.out.println(displayTotalMessage + (latte - dripCoffee));
+
+        // String name = "Anthony";
+        // System.out.println(name.charAt(0));
+
     }
 }
