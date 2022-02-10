@@ -23,7 +23,7 @@ public class AlfredTest {
                 // sensi bonus -- angry alfred
                 String getAlfredAngry = alfredBot.angryAlfred("Bill", "ass");
                 System.out.println(getAlfredAngry);
-                // Uncomment these one at a time as you implement each method.
+                // Test one at a time as you implement each method.
                 System.out.println(testGuestGreeting);
                 System.out.println(testDateAnnouncement);
                 System.out.println(alexisTest);
